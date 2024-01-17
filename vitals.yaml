@@ -1,0 +1,8 @@
+  apiVersion: v1
+  metadata:
+    askId: null
+    caAgileId: 'do not use rally or use other system'
+    projectKey: null
+    projectFriendlyName: null
+    componentType: code
+    targetQG: GATE_EXEMPT
